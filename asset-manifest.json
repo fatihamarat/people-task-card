@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/people-task-card/static/css/main.0290cf1f.css",
+    "main.js": "/people-task-card/static/js/main.2b7d04ca.js",
+    "index.html": "/people-task-card/index.html",
+    "main.0290cf1f.css.map": "/people-task-card/static/css/main.0290cf1f.css.map",
+    "main.2b7d04ca.js.map": "/people-task-card/static/js/main.2b7d04ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0290cf1f.css",
+    "static/js/main.2b7d04ca.js"
+  ]
+}
