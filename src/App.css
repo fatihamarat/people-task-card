@@ -1,0 +1,21 @@
+.completed {
+  text-decoration: line-through;
+  color: darkred;
+}
+
+.tableTr:hover {
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.container-fluid {
+  background-image: url("https://img.freepik.com/free-vector/three-focus-sportlights-background-gray-color_1017-23784.jpg?w=2000");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.modalImage {
+  width: 150px;
+  display: block;
+}
